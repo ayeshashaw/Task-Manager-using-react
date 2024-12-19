@@ -36,6 +36,7 @@ npm (v6.0.0 or higher)
 *Project Structure*
 
 Copytask-manager/
+
 ├── src/
 │   ├── components/
 │   │   ├── Posts.js
@@ -74,7 +75,6 @@ Click "Update Post" to save changes
 *Deleting a Task*
 
 Click the "Delete" button on any task to remove it
-
 
 
 *Styling*
