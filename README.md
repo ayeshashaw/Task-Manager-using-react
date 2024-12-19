@@ -6,6 +6,7 @@
 A modern React-based task management application that allows users to create, read, update, and delete tasks/posts with a clean and intuitive user interface.
 Features
 
+
 ✨ Create new tasks/posts with title and description
 📝 View all tasks in a clean, organized layout
 🔄 Edit existing tasks
@@ -14,20 +15,26 @@ Features
 🎨 Modern, responsive design
 ⚡ Real-time updates
 
+
 *Technologies Used*
+
 
 React.js
 CSS3
 Axios for API integration
 RESTful API
 
+
 *Prerequisites*
 Before you begin, ensure you have the following installed:
+
 
 Node.js (v14.0.0 or higher)
 npm (v6.0.0 or higher)
 
+
 *Project Structure*
+
 Copytask-manager/
 ├── src/
 │   ├── components/
@@ -42,6 +49,7 @@ Copytask-manager/
 └── README.md
 
 *API Integration*
+
 The application uses the following API endpoints:
 javascriptCopyGET    /api/posts      // Fetch all posts
 POST   /api/posts      // Create a new post
