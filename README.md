@@ -1,6 +1,5 @@
 
-
-**Task Manager React Application**
+# Task Manager React Application
 
 This is a modern task management application built with React that allows users to create, read, update, and delete tasks with a clean and intuitive user interface.
 
